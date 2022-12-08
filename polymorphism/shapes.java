@@ -1,4 +1,4 @@
-package inheritance.polymorphism;
+package polymorphism;
 
 public class shapes {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package inheritance.abstraction;
+package abstraction;
 
 public class Mainfocus 
 {

@@ -1,4 +1,4 @@
-package inheritance.abstraction;
+package abstraction;
 
 public abstract class Parent {
     int age;
